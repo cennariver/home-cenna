@@ -1,7 +1,0 @@
-git pull			: get data from git
-git add .			: adding all data
-git commit -m "<message>"	: commit data and write message
-git push origin <branch_name>	: upload data to git
-
-git rm <filename>		: delete file on pc and git
-git rm --cached <filename>	: delete file on git
