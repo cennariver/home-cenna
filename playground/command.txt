@@ -1,7 +1,8 @@
 git pull			: get data from git
 git add .			: adding all data
-git commit -m "<message>"	: commit data and write message
-git push origin <branch_name>	: upload data to git
-
+git add <foldername>/*		: adding a folder
+git add <filename>		: adding a file
 git rm <filename>		: delete file on pc and git
 git rm --cached <filename>	: delete file on git
+git commit -m "<message>"	: commit data and write message
+git push origin <branch_name>	: upload data to git
